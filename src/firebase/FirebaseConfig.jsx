@@ -5,12 +5,18 @@ import { getAuth } from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDBHTUtOeuCON7AEF3UPPxU1sHsnFfBv-M",
-    authDomain: "ecommerce-for.firebaseapp.com",
-    projectId: "ecommerce-for",
-    storageBucket: "ecommerce-for.appspot.com",
-    messagingSenderId: "609664686595",
-    appId: "1:609664686595:web:302bf25cc8efa64a4e4c36"
+    apiKey: "AIzaSyAvEMr-_GeeAFDfLD3w2oB_s3jPjrPQyZs",
+
+  authDomain: "fragveda.firebaseapp.com",
+
+  projectId: "fragveda",
+
+  storageBucket: "fragveda.appspot.com",
+
+  messagingSenderId: "709002213779",
+
+  appId: "1:709002213779:web:c406148941ed9918cd5066"
+
 };
 
 // Initialize Firebase
